@@ -25,9 +25,9 @@ void merge_sort(int arr[], int low, int mid, int high)
 
 int main()
 {
-    int arr[10] = {24, 15, 26, 45, 74, 12, 41, 32, 52, 42};
+    int array[10] = {24, 15, 26, 45, 74, 12, 41, 32, 52, 42};
     int n = 10;
-    for (auto ele : arr)
+    for (auto ele : array)
     {
         cout << ele << " ";
     }
